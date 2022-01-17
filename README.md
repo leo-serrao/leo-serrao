@@ -1,4 +1,8 @@
 <div>
+  <img src="https://pa1.narvii.com/6515/afa56798f0a615935f2ce5cf26aabf3374020f0f_hq.gif">
+</div>
+
+<div>
   <h1>Fala ai! Você achou meu perfil!</h1>
 </div>
 
