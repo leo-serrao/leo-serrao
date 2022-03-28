@@ -6,6 +6,17 @@
   <h1>Hey! You found my profile!</h1>
 </div>
 
+<br>
+<br>
+
+<div align="center">
+  <p> 💻 Hi! My name is Leonardo Serrão Munaretto, i'm a programming student looking forward to become an awesome Front-End Developer, can't wait to find a good company to work at and learn more! I really enjoy learning new things and figuring out how they work, the language i enjoy the most is JavaScript and especially ReactJS ⚛</p>
+  <p> 🚀 I'm currently studying at <a href="https://github.com/Rocketseat" target="_blank">@RocketSeat<a/></p>
+  
+</div>
+
+##
+
 <div align="center">
   
   <br>
