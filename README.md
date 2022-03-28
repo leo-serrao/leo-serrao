@@ -24,25 +24,27 @@
   
     
   <h3> Main Skills: <h3>
-  <img align="center" alt="Leo-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Leo-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Leo-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="Leo-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Leo-Js" style="height: 55px; widht: 55px" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+  <img align="center" alt="Leo-React" style="height: 55px; widht: 55px" src="https://logospng.org/download/react/logo-react-1024.png">
+  <img align="center" alt="Leo-HTML" style="height: 55px; widht: 55px" src="https://logospng.org/download/html-5/logo-html-5-2048.png">
+  <img align="center" alt="Leo-CSS" style="height: 55px; widht: 55px" src="https://logospng.org/download/css-3/logo-css-3-2048.png"> 
+  <img align="center" alt="Leo-SASS" style="height: 48px; widht: 48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">  
 
+    
   <br>
   <br>
 
   <h3> Tools: </h3>
-  <img align="center" alt="Leo-Vs" width="120" hegiht="100" src="https://i.postimg.cc/2jXb6phP/v2-10e3c26b2e0c2fbeab214b2477a67046-720w.png">
-  <img align="center" alt="Leo-GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Leo-Git" width="65" src="https://blog-geek-midia.s3.amazonaws.com/wp-content/uploads/2020/08/06103546/comandos-git.png">
-  <img align="center" alt="Leo-Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
+  <img align="center" alt="Leo-VS-Code" style="height: 48px; widht: 48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519"> &nbsp
+  <img align="center" alt="Leo-Github" style="height: 48px; widht: 48px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png"> &nbsp
+  <img align="center" alt="Leo-Git" style="height: 48px; widht: 48px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> &nbsp
+  <img align="center" alt="Leo-Windows" style="height: 48px; widht: 48px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/windows_104558.png">
+  
   <br>
   <br>
 
   <h3> Learning at the moment: </h3>
-  <img align="center" alt="Leo-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Leo-NodeJS" style="height: 105px; widht: 105px" src="https://logospng.org/download/node-js/logo-node-js-256.png">
   
   <br>
   <br>
