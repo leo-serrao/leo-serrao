@@ -11,7 +11,11 @@
 
 <div align="center">
   <p> 💻 Hi! My name is Leonardo Serrão Munaretto, i'm a programming student looking forward to become an awesome Front-End Developer, can't wait to find a good company to work at and learn more! I really enjoy learning new things and figuring out how they work, the language i enjoy the most is JavaScript and especially ReactJS ⚛</p>
-  <p> 🚀 I'm currently studying at <a href="https://github.com/Rocketseat" target="_blank">@RocketSeat<a/></p>
+  
+  <br>
+  <br>
+  
+  <p> 👨‍🎓 I'm currently studying at <a href="https://www.unopar.com.br/" target="_blank">@UNOPAR<a/> (System Analysis and Development) and <a href="https://github.com/Rocketseat" target="_blank">@RocketSeat<a/></p>
   
 </div>
 
@@ -40,6 +44,7 @@
   <img align="center" alt="Leo-HTML" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"> 
   <img align="center" alt="Leo-SASS" style="height: 70px; widht: 70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">  
+  <img align="center" alt="Leo-TAILWIND" style="height: 70px; widht: 70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg">   
 
     
   <br>
@@ -49,7 +54,7 @@
   <img align="center" alt="Leo-VS-Code" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"> &nbsp
   <img align="center" alt="Leo-Github" style="height: 55px; widht: 55px" src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png"> &nbsp
   <img align="center" alt="Leo-Git" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"> &nbsp
-  <img align="center" alt="Leo-Windows" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg">
+
   
   <br>
   <br>
