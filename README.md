@@ -15,8 +15,12 @@
   <br>
   <br>
   
-  <p> 👨‍🎓 I'm currently studying at <a href="https://www.unopar.com.br/" target="_blank">@UNOPAR<a/> (System Analysis and Development) and <a href="https://github.com/Rocketseat" target="_blank">@RocketSeat<a/></p>
+  <p> 👨‍🎓 I'm currently studying at <a href="https://www.unopar.com.br/" target="_blank">UNOPAR<a/> (System Analysis and Development)</p>
   
+  <br>
+  <br>
+  
+  <p> 💼 I'm currently working at <a href="https://www.tcs.com/" target="_blank">Tata Consultancy Services (TCS)<a/> (System Analysis and Development)</p>
 </div>
 
 ##
@@ -76,10 +80,10 @@
   <br>
   
   <div align="center"> 
-  <a href="https://instagram.com/leoserraom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <a href = "mailto:leoserraom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <a href="https://www.linkedin.com/in/leonardo-serrão-171332104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-serrão-171332104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href = "mailto:leoserraom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
   <a href="https://api.whatsapp.com/send?phone=5517991823655&text=Olá!%20Vi%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+  <a href="https://instagram.com/leoserraom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
 
   </div>
   
