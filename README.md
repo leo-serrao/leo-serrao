@@ -45,10 +45,12 @@
   <h3> Main Skills: <h3>
   <img align="center" alt="Leo-Js" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-React" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img align="center" alt="Leo-TypeScript" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="Leo-HTML" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"> 
   <img align="center" alt="Leo-SASS" style="height: 70px; widht: 70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">  
-  <img align="center" alt="Leo-TAILWIND" style="height: 70px; widht: 70px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg">   
+  <img align="center" alt="Leo-SASS" style="height: 70px; widht: 70px" src="https://styled-components.com/logo.png">  
+    
 
     
   <br>
@@ -65,7 +67,7 @@
 
   <h3> Learning at the moment: </h3>
   <img align="center" alt="Leo-NodeJS" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"> &nbsp
-    <img align="center" alt="Leo-TypeScript" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+   
    
 
   
