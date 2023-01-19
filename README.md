@@ -20,7 +20,7 @@
   <br>
   <br>
   
-  <p> 💼 I'm currently working at <a href="https://www.tcs.com/" target="_blank">Tata Consultancy Services (TCS)<a/> (System Analysis and Development)</p>
+  <p> 💼 I'm currently working at <a href="https://www.tcs.com/" target="_blank">Tata Consultancy Services (TCS)<a/></p>
 </div>
 
 ##
