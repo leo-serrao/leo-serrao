@@ -23,22 +23,23 @@
   <p> 💼 I'm currently working at <a href="https://www.tcs.com/" target="_blank">Tata Consultancy Services (TCS)<a/></p>
 </div>
 
+<br>
+  <br>
+  
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/leonardo-serrão-171332104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+  <a href = "mailto:leoserraom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5517991823655&text=Olá!%20Vi%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
+  <a href="https://instagram.com/leoserraom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
+
+</div>
+
 ##
+  
 
 <div align="center">
   
   <br>
-  <br>
-  
-  <a href="https://github.com/leo-serrao">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leo-serrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-serrao&layout=compact&langs_count=7&theme=tokyonight"/>
-  
-  <br>
-  <br>
-    
-  ##
-    
   <br>
   
     
@@ -68,8 +69,17 @@
   <h3> Learning at the moment: </h3>
   <img align="center" alt="Leo-NodeJS" style="height: 55px; widht: 55px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"> &nbsp
    
-   
-
+  <br>
+  <br>
+  
+        
+  ##
+    
+  <br>
+  <br>
+    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leo-serrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-serrao&layout=compact&langs_count=7&theme=tokyonight"/>
   
   <br>
   <br>
@@ -78,13 +88,4 @@
  
   ##
     
-  <br>
-  <br>
-  
-  <div align="center"> 
-  <a href="https://www.linkedin.com/in/leonardo-serrão-171332104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
-  <a href = "mailto:leoserraom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
-  <a href="https://api.whatsapp.com/send?phone=5517991823655&text=Olá!%20Vi%20seu%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
-  <a href="https://instagram.com/leoserraom" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"></a>
 
-  </div>
