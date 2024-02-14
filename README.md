@@ -15,7 +15,7 @@
   <br>
   <br>
   
-  <p> 👨‍🎓 I'm currently studying at <a href="https://www.unopar.com.br/" target="_blank">UNOPAR<a/> (System Analysis and Development)</p>
+  <p> 👨‍🎓 Graduated in System Analysis and Development at <a href="https://www.unopar.com.br/" target="_blank">UNOPAR<a/></p>
   
   <br>
   <br>
