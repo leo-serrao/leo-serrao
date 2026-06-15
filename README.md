@@ -10,10 +10,6 @@
 <br>
 
 <div align="center">
-  <p> 💻 Hi! My name is Leonardo Serrão Munaretto, i'm a programming student looking forward to become an awesome Front-End Developer, can't wait to find a good company to work at and learn more! I really enjoy learning new things and figuring out how they work, the language i enjoy the most is JavaScript and especially ReactJS ⚛</p>
-  
-  <br>
-  <br>
   
   <p> 👨‍🎓 Graduated in System Analysis and Development at <a href="https://www.unopar.com.br/" target="_blank">UNOPAR<a/></p>
   
